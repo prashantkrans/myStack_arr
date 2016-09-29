@@ -1,2 +1,2 @@
 # myStack_arr
-Stack class
+Stack class - General stack class for int type.
